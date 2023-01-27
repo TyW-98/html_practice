@@ -1,0 +1,30 @@
+body {
+    background-color: #364F6B; 
+    opacity:0.75;
+}
+
+hr  {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 10%;
+    border-color: rgb(196, 122, 13);
+}
+
+div {
+    background-color: rgb(47, 64, 212);
+    border-style: none;
+    border-bottom-style: double;
+    height: 50px;
+    border-bottom-color:cadetblue;
+}
+
+h1 {
+    font-family: monospace;
+    color: #0fb0c5;
+}
+
+h3 {
+    font-family: monospace;
+    color: #0fb0c5;
+}
